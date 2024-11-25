@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="98f66859-a212-4bfa-adad-72ce498a56a4" name="Changes" comment="Initial commit for FoodiesBot">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="98f66859-a212-4bfa-adad-72ce498a56a4" name="Changes" comment="Initial commit for FoodiesBot" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,12 +40,12 @@
     &quot;author&quot;: &quot;Nani-04&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Nani-04/FoodBot.git&quot;,
-    &quot;accountId&quot;: &quot;ab06abaa-9e7a-4fb7-8bfd-b8f194b132b1&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Nani-04/FoodiesBot.git",
+    "accountId": "ab06abaa-9e7a-4fb7-8bfd-b8f194b132b1"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -183,6 +181,7 @@
       <workItem from="1731897052688" duration="231000" />
       <workItem from="1731961039468" duration="1151000" />
       <workItem from="1732412308197" duration="4533000" />
+      <workItem from="1732506783538" duration="303000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit for FoodiesBot">
       <option name="closed" value="true" />
